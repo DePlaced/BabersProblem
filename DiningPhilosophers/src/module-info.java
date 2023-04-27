@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author paapl
+ *
+ */
+module BarbersProblem {
+}
